@@ -18,6 +18,7 @@ const paltformApps = [{
 
 const config = {
   apps: [
+    app("random-product"),
     app("konfidency"),
     app("mailchimp"),
     app("ai-assistants"),
